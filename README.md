@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dchio" alt="dchio" /> </p>
 
-- 🌱 I’m currently trying to learn C# and the .NET Framework.
+- 🌱 I’m currently learning C# and the .NET Framework.
 
 - 🔭 I hope that i can contribute to more open source projects in the future.
 
