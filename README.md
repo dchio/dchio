@@ -19,5 +19,5 @@ Currently learning 👨‍🎓:
 
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dchio&layout=compact)](https://github.com/dchio)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dchio&layout=compact&theme=algolia)](https://github.com/dchio)
 
