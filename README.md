@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dari C</h1>
-<h3 align="center">A German Student trying to get into the open source world.</h3>
+<h3 align="center">Developer and tech-enthusiast from Germany</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dchio" alt="dchio" /> </p>
 
