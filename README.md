@@ -12,11 +12,8 @@ Currently learning 👨‍🎓:
 - Front-end web development (HTML, CSS, JS)
 - Vue.js
 
-
 <br />
-
 ---
-
 <br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dchio&layout=compact&theme=algolia)](https://github.com/dchio)
