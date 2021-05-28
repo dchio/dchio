@@ -3,25 +3,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dchio" alt="dchio" /> </p>
 
-- 🌱 I’m currently learning C# and the .NET Framework.
+Languages I know 👨‍💻:
+- Python
+- C# (.NET Framework)
+- Java (a bit)
 
-- 🔭 I hope that i can contribute to more open source projects in the future.
-
-- 💬 Got more questions? Ask me anything you'd like to know!
-
-### Tools and languages that I use
-
-<p align="left"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> 
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+Currently learning 👨‍🎓:
+- Front-end web development (HTML, CSS, JS)
+- Vue.js
 
 <br />
 <br />
 
 ---
 
-</p ><img align="center" src="https://github-readme-stats.vercel.app/api?username=dchio&show_icons=true" alt="dchio" />
-</p ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dchio&hide_langs_below=1&show_icons=true" alt="dchio" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
